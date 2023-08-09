@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstname": "Ankita",
+      "lastname": "Kumbhar",
+      "birthdate": "2000-03-30",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Full Stack Java Devoper",
+      "jobExperience": 0,
+      "salary": 0,
+      "profile": "KUMBHAR ANKITA DINESH Photo (2).jpg",
+      "id": 8
+    },
+    {
+      "firstname": "yogita",
+      "lastname": "kumbhar",
+      "birthdate": "1998-03-18",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Backend Devloper",
+      "jobExperience": 4,
+      "salary": 15,
+      "profile": "photo-1619895862022-09114b41f16f.avif",
+      "id": 11
+    },
+    {
+      "firstname": "priya",
+      "lastname": "mhetre",
+      "birthdate": "2000-08-20",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Web Devloper",
+      "jobExperience": 2,
+      "salary": 2,
+      "profile": "photo-1438761681033-6461ffad8d80.avif",
+      "id": 12
+    },
+    {
+      "firstname": "Rehan",
+      "lastname": "Roy",
+      "birthdate": "1998-07-24",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Web devoploer",
+      "jobExperience": 3,
+      "salary": 11,
+      "profile": "rehan-roy.webp",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
